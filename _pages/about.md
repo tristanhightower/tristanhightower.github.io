@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-+Test
-
+This is a test page.
 
