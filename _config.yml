@@ -13,7 +13,7 @@ name                     : &name "Tristan M. Hightower"
 description              : &description "PhD Student in Government and Politics at the University of Maryland"
 url                      : https://tristanhightower.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tristanhightower.github.io"
+repository               : "thighto/tristanhightower.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
