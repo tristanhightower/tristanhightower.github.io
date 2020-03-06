@@ -1,1 +1,8 @@
+ ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
+
 You can find my CV <a href="/files/CV.pdf">here</a>.
