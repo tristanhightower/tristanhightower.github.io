@@ -1,1 +1,1 @@
-You can find my CV <a href="/tristanhightower.github.io/files/CV.pdf">here</a>.
+You can find my CV <a href="/files/CV.pdf">here</a>.
