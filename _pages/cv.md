@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a copy of my CV here. <a href="/Files/CV.pdf">Course Syllabus</a></li>
+You can find a copy of my CV here. <a href="/CV.pdf">Course Syllabus</a></li>
