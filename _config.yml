@@ -77,9 +77,9 @@ analytics:
 author:
   name             : "Tristan M. Hightower"
   avatar           : "Tristan_Hightower 2.jpg"
-  bio              : "PhD Student | American Politics | University of Maryland, College Park"
+  bio              : "PhD Student | American Politics | University of Maryland"
   location         : "Washington, DC"
-  employer         :
+  employer         : "https://gvpt.umd.edu/gradprofile/hightower/tristan-m"
   googlescholar    : 
   email            : "thighto@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
