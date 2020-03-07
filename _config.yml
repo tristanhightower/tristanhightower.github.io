@@ -79,7 +79,7 @@ author:
   avatar           : "Tristan_Hightower 2.jpg"
   bio              : "PhD Student | American Politics | University of Maryland"
   location         : "Washington, DC"
-  employer         : "https://gvpt.umd.edu/gradprofile/hightower/tristan-m"
+  employer         : "<a href="https://gvpt.umd.edu/gradprofile/hightower/tristan-m">GVPT Profile</a>"
   googlescholar    : 
   email            : "thighto@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "thighto"
+  github           : "tristanhightower"
   google_plus      :
   keybase          :
   instagram        :
