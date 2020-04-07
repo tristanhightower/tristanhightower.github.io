@@ -15,7 +15,7 @@ I currently have one publication that was adapted from my undergraduate thesis:
 I have also worked as a research assistant for the following faculty:
 
 <ul>
-  <li><a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Dr. Kris Miler, Assoc. Professor</a>, University of Maryland, College Park
-  <li><a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Dr. James G. Gimpel, Professor</a>, University of Maryland, College Park
+  <li><a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Dr. Kris Miler</a>, Assoc. Professor, University of Maryland, College Park
+  <li><a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Dr. James G. Gimpel</a>, Professor, University of Maryland, College Park
   <li>Milk</li>
 </ul>
