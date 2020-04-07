@@ -18,4 +18,4 @@ I have also worked as a research assistant for the following faculty:
   <li><a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Dr. Kris Miler</a>, Assoc. Professor, University of Maryland, College Park
   <li><a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Dr. James G. Gimpel</a>, Professor, University of Maryland, College Park
   <li><a href="https://polisci.utk.edu/faculty/sharma.php">Dr. Hemant Sharma</a>, Lecturer, University of Tennessee (undergraduate research assistant)</li>
-</ul>
+
