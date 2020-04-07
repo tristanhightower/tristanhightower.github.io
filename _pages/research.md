@@ -11,3 +11,11 @@ My main field of research is American politics with a secondary concentration in
 I currently have one publication that was adapted from my undergraduate thesis:
 
 <a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Hightower, Tristan M. 2019. “Tennessee’s Promise: Education for All?” <i>Pursuit – The Journal of Undergraduate Research at the University of Tennessee</i> 9(1), Article 4.</a>
+
+I have also worked as a research assistant for the following faculty:
+
+<ul>
+  <li><a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Dr. Kris Miler, Assoc. Professor</a>, University of Maryland, College Park/li>
+  <li><a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Dr. James G. Gimpel, Professor</a>, University of Maryland, College Park/li> 
+  <li>Milk</li>
+</ul>
