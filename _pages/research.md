@@ -11,22 +11,20 @@ My main field of research is American politics with a secondary concentration in
 My current working papers are:
 
 <ul>
-<li> Hightower, Tristan M. 2020. "Packed Pews: Understanding Evangelical Group Emergence." Under Review at <i>Interest Groups & Advocacy</i>. 
+  <li> Hightower, Tristan M. 2020. "Packed Pews: Understanding Evangelical Group Emergence." Under Review at <i>Interest Groups & Advocacy</i>. 
+  <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2020. "Understanding the Geographic Origin and Concentration of Redistricting Cases Filed in U.S. Courts." Under Review at <i>Political Research Quarterly</i>.</li>
+</ul>
 
-<li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2020. "Understanding the Geographic Origin and Concentration of Redistricting Cases Filed in U.S. Courts." Under Review at <i>Political Research Quarterly</i>.</li>
 
-
-<div>
 I currently have one publication that was adapted from my undergraduate thesis:
+<ul> 
+  <li><a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Hightower, Tristan M. 2019. “Tennessee’s Promise: Education for All?” <i>Pursuit – The Journal of    Undergraduate Research at the University of Tennessee</i> 9(1), Article 4.</a></li>  
+</ul>
 
-<li><a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Hightower, Tristan M. 2019. “Tennessee’s Promise: Education for All?” <i>Pursuit – The Journal of Undergraduate Research at the University of Tennessee</i> 9(1), Article 4.</a></li>
-
-
-<div>
 I have also worked as a research assistant for the following faculty:
 
-
+<ul>
   <li><a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Dr. Kris Miler</a>, Assoc. Professor, University of Maryland, College Park
   <li><a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Dr. James G. Gimpel</a>, Professor, University of Maryland, College Park
   <li><a href="https://polisci.utk.edu/faculty/sharma.php">Dr. Hemant Sharma</a>, Lecturer, University of Tennessee (undergraduate research assistant)</li>
-
+</ul
