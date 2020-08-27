@@ -15,9 +15,11 @@ My current working papers are:
 
 <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2020. "Understanding the Geographic Origin and Concentration of Redistricting Cases Filed in U.S. Courts." Under Review at <i>Political Research Quarterly</i>.</li>
 
+
 I currently have one publication that was adapted from my undergraduate thesis:
 
-<a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Hightower, Tristan M. 2019. “Tennessee’s Promise: Education for All?” <i>Pursuit – The Journal of Undergraduate Research at the University of Tennessee</i> 9(1), Article 4.</a>
+<ul>
+<li><a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Hightower, Tristan M. 2019. “Tennessee’s Promise: Education for All?” <i>Pursuit – The Journal of Undergraduate Research at the University of Tennessee</i> 9(1), Article 4.</a></li>
 
 I have also worked as a research assistant for the following faculty:
 
