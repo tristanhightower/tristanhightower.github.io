@@ -16,6 +16,7 @@ My current working papers are:
 <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2020. "Understanding the Geographic Origin and Concentration of Redistricting Cases Filed in U.S. Courts." Under Review at <i>Political Research Quarterly</i>.</li>
 </ul>
 
+<div>
 I currently have one publication that was adapted from my undergraduate thesis:
 
 <ul>
