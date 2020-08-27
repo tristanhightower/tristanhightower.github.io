@@ -10,9 +10,11 @@ My main field of research is American politics with a secondary concentration in
 
 My current working papers are:
 
-Hightower, Tristan M. 2020. "Packed Pews: Understanding Evangelical Group Emergence." <i> Under Review at Interest Groups & Advocacy</i>. 
+<ul>
 
-Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2020. "Understanding the Geographic Origin and Concentration of Redistricting Cases Filed in U.S. Courts." <i> Under Review at Political Research Quarterly</i>.
+<li><a Hightower, Tristan M. 2020. "Packed Pews: Understanding Evangelical Group Emergence." Under Review at <i>Interest Groups & Advocacy</i>. 
+
+<li><a Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2020. "Understanding the Geographic Origin and Concentration of Redistricting Cases Filed in U.S. Courts." Under Review at <i>Political Research Quarterly</i>.</li>
 
 I currently have one publication that was adapted from my undergraduate thesis:
 
