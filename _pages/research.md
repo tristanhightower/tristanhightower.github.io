@@ -14,7 +14,7 @@ My current working papers are:
 <li> Hightower, Tristan M. 2020. "Packed Pews: Understanding Evangelical Group Emergence." Under Review at <i>Interest Groups & Advocacy</i>. 
 
 <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2020. "Understanding the Geographic Origin and Concentration of Redistricting Cases Filed in U.S. Courts." Under Review at <i>Political Research Quarterly</i>.</li>
-
+</ul>
 
 I currently have one publication that was adapted from my undergraduate thesis:
 
@@ -28,4 +28,4 @@ I have also worked as a research assistant for the following faculty:
   <li><a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Dr. Kris Miler</a>, Assoc. Professor, University of Maryland, College Park
   <li><a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Dr. James G. Gimpel</a>, Professor, University of Maryland, College Park
   <li><a href="https://polisci.utk.edu/faculty/sharma.php">Dr. Hemant Sharma</a>, Lecturer, University of Tennessee (undergraduate research assistant)</li>
-
+</ul>
