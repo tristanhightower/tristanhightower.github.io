@@ -14,14 +14,14 @@ My current working papers are:
 <li> Hightower, Tristan M. 2020. "Packed Pews: Understanding Evangelical Group Emergence." Under Review at <i>Interest Groups & Advocacy</i>. 
 
 <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2020. "Understanding the Geographic Origin and Concentration of Redistricting Cases Filed in U.S. Courts." Under Review at <i>Political Research Quarterly</i>.</li>
-</ul>
+
 
 <div>
 I currently have one publication that was adapted from my undergraduate thesis:
 
 <ul>
 <li><a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Hightower, Tristan M. 2019. “Tennessee’s Promise: Education for All?” <i>Pursuit – The Journal of Undergraduate Research at the University of Tennessee</i> 9(1), Article 4.</a></li>
-</ul>
+
 
 <div>
 I have also worked as a research assistant for the following faculty:
