@@ -8,7 +8,7 @@ author_profile: true
   
 My main field of research is American politics with a secondary concentration in quantitative methodology. I am broadly interested in American political institutions -- especially the U.S. Congress and interest groups. My current research agenda is pointed toward better understanding religious representation from an institutional perspective. I am also collaborating with <a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Jim Gimpel</a> and <a href="https://gvpt.umd.edu/facultyprofile/wohlfarth/patrick-c">Patrick Wohlfarth</a> on a paper examining the emergence of redistricting litigation. If you would like to know more about my current research, please feel free to <a href="mailto:thighto@umd.edu">contact me</a>.A few of my working projects are:
 <ul> 
-  <li><a Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. </li></ul>
+  <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. </li></ul>
 
 I currently have one publication that was adapted from my undergraduate thesis:
 <ul> 
