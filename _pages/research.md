@@ -10,7 +10,7 @@ My main field of research is American politics with a secondary concentration in
 <ul> 
   <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2021. The Geography of Law:  Understanding the Origin of State and Federal Redistricting Cases. <i>Political Research Quartlerly</i>. </li>
   <li> Hightower, Tristan M. 2021. <a href="https://rdcu.be/clxjN">Packed Pews: Understanding Evangelical Group Formation.</a> <i>Interest Groups & Advocacy</i>.
-  <li>Hightower, Tristan M. 2019.<a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Tennessee’s Promise: Education for All?</a> <i>Pursuit – The Journal of    Undergraduate Research at the University of Tennessee</i> 9(1): Article 4.</li></ul>
+  <li>Hightower, Tristan M. 2019. <a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Tennessee’s Promise: Education for All?</a> <i>Pursuit – The Journal of    Undergraduate Research at the University of Tennessee</i> 9(1): Article 4.</li></ul>
   
  My working papers early in development include:
  <ul>
