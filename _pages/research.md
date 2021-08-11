@@ -16,7 +16,7 @@ My main field of research is American politics with a secondary concentration in
  My working papers early in development include:
   <ul> <li> "Interest Group Involvment in Federal Redistricting Litigation" with <a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Jim Gimpel</a>, <a href="https://gvpt.umd.edu/facultyprofile/wohlfarth/patrick-c">Patrick Wohlfarth</a>, and <a href="https://gvpt.umd.edu/gradprofile/worley/victoria">Victoria Worley</a>.</li>
  <li> "Bipartisanship and Legislative Vulnerability" with <a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Kris Miler</a>.</li>
-  <li> "Megachuch Influence in State Politics"</li></ul>
+  <li> "Megachuch Influence in State Politics"</li>
 
 
 I have also worked as a research assistant for the following faculty:
@@ -24,5 +24,5 @@ I have also worked as a research assistant for the following faculty:
 <ul>
   <li><a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Dr. Kris Miler</a>, Assoc. Professor, University of Maryland, College Park
   <li><a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Dr. James G. Gimpel</a>, Professor, University of Maryland, College Park
-  <li><a href="https://polisci.utk.edu/faculty/sharma.php">Dr. Hemant Sharma</a>, Lecturer, University of Tennessee (undergraduate research assistant)</li></ul>
+  <li><a href="https://polisci.utk.edu/faculty/sharma.php">Dr. Hemant Sharma</a>, Lecturer, University of Tennessee (undergraduate research assistant)</li>
 
