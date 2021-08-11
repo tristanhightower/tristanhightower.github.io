@@ -17,6 +17,7 @@ My main field of research is American politics with a secondary concentration in
   <ul> <li> "Interest Group Involvment in Federal Redistricting Litigation" with <a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Jim Gimpel</a>, <a href="https://gvpt.umd.edu/facultyprofile/wohlfarth/patrick-c">Patrick Wohlfarth</a>, and <a href="https://gvpt.umd.edu/gradprofile/worley/victoria">Victoria Worley</a>.</li>
  <li> "Bipartisanship and Legislative Vulnerability" with <a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Kris Miler</a>.</li>
   <li> "Megachuch Influence in State Politics"</li>
+  </ul>
 
 
 I have also worked as a research assistant for the following faculty:
