@@ -8,7 +8,7 @@ author_profile: true
   
 My main field of research is American politics with a secondary concentration in quantitative methodology. I am broadly interested in American political institutions -- especially the U.S. Congress and interest groups. My current research agenda is pointed toward better understanding religious representation from an institutional perspective. If you would like to know more about my current research, please feel free to <a href="mailto:thighto@umd.edu">contact me</a>. My publications are:
 <ul> 
-  <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2021. The Geography of Law:  Understanding the Origin of State and Federal Redistricting Cases. <i>Political Research Quartlerly</i>. </li>
+  <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2021. <a href="https://journals.sagepub.com/doi/10.1177/10659129211029723">The Geography of Law:  Understanding the Origin of State and Federal Redistricting Cases.</a> <i>Political Research Quartlerly</i>. </li>
   <li> Hightower, Tristan M. 2021. <a href="https://rdcu.be/clxjN">Packed Pews: Understanding Evangelical Group Formation.</a> <i>Interest Groups & Advocacy</i>.
   <li>Hightower, Tristan M. 2019. <a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Tennessee’s Promise: Education for All?</a> <i>Pursuit – The Journal of    Undergraduate Research at the University of Tennessee</i> 9(1): Article 4.</li></ul>
  
