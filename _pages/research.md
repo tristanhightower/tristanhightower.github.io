@@ -7,20 +7,20 @@ author_profile: true
 
  
 <p>
-My main field of research is American politics with a secondary concentration in quantitative methodology. I am broadly interested in American political institutions -- especially the U.S. Congress and interest groups. My current research agenda is pointed toward better understanding religious representation from an institutional perspective. If you would like to know more about my current research, please feel free to <a href="mailto:thighto@umd.edu">contact me</a>. My publications are:
+My main field of research is American politics with a secondary concentration in quantitative methodology. I am broadly interested in American political institutions -- especially the U.S. Congress and interest groups. My current research agenda is pointed toward better understanding religious representation from an institutional perspective. If you would like to know more about my current research, please feel free to <a href="mailto:thighto@umd.edu">contact me</a>. My publications are:</p>
 <ul> 
   <li> Gimpel, James G., <b>Tristan M. Hightower</b>, and Patrick C. Wohlfarth. 2021. <a href="https://journals.sagepub.com/doi/10.1177/10659129211029723">The Geography of Law:  Understanding the Origin of State and Federal Redistricting Cases.</a> <i>Political Research Quartlerly</i>. </li>
   <li> Hightower, Tristan M. 2021. <a href="https://rdcu.be/clxjN">Packed Pews: Understanding Evangelical Group Formation.</a> <i>Interest Groups & Advocacy</i>.
   <li>Hightower, Tristan M. 2019. <a href="https://trace.tennessee.edu/pursuit/vol9/iss1/4/">Tennessee’s Promise: Education for All?</a> <i>Pursuit – The Journal of    Undergraduate Research at the University of Tennessee</i> 9(1): Article 4.</li></ul>
 
-<br>
- My working papers early in development include:
+<br><p>
+ My working papers early in development include:</p>
 <ul class="class_one"> 
   <li> "Interest Group Involvment in Federal Redistricting Litigation" with <a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Jim Gimpel</a>, <a href="https://gvpt.umd.edu/facultyprofile/wohlfarth/patrick-c">Patrick Wohlfarth</a>, and <a href="https://gvpt.umd.edu/gradprofile/worley/victoria">Victoria Worley</a>.</li>
   <li> "Bipartisanship and Legislative Vulnerability" with <a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Kris Miler</a>.</li>
   <li> "Megachuch Influence in State Politics"</li></ul>
 <br>
-I have also worked as a research assistant for the following faculty:
+<p>I have also worked as a research assistant for the following faculty:</p>
 
 <ul class="class_one">
   <li><a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Dr. Kris Miler</a>, Assoc. Professor, University of Maryland, College Park
