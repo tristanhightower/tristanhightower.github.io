@@ -25,4 +25,4 @@ My main field of research is American politics with a secondary concentration in
 <ul class="class_one">
   <li><a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Dr. Kris Miler</a>, Assoc. Professor, University of Maryland, College Park
   <li><a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Dr. James G. Gimpel</a>, Professor, University of Maryland, College Park
-  <li><a href="https://polisci.utk.edu/faculty/sharma.php">Dr. Hemant Sharma</a>, Lecturer, University of Tennessee (undergraduate research assistant)</li></ul>
+  <li><a href="https://polisci.utk.edu/faculty/sharma.php">Dr. Hemant Sharma</a>, Lecturer, University of Tennessee (undergraduate research assistant)</ul>
