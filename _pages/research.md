@@ -16,10 +16,10 @@ My main field of specialization for the PhD is American politics with a secondar
 My working projects include:
 
 <ul> 
- <li> "The Population Ecology of Interest Groups and Counter-Mobilization: Reproductive Rights Organizations in the United States, 1920-1985." Invited to revise and resubmit at <i>Political Science Research and Methods.</li>
+ <li> "The Population Ecology of Interest Groups and Counter-Mobilization: Reproductive Rights Organizations in the United States, 1920-1985." Invited to revise and resubmit at <i>Political Science Research and Methods.</i></li>
   <li> "Interest Group Involvment in Federal Redistricting Litigation" with <a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Jim Gimpel</a>, <a href="https://gvpt.umd.edu/facultyprofile/wohlfarth/patrick-c">Patrick Wohlfarth</a>, and <a href="https://gvpt.umd.edu/gradprofile/worley/victoria">Victoria Worley</a>.</li>
   <li> "Bipartisanship and Legislative Vulnerability" with <a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Kris Miler</a>.</li>
-  <li> "Megachuch Influence in State Politics."</li> Under review. 
+  <li> "Megachuch Influence in State Politics." Under review. </li> 
 </ul>
 
 I have also worked as a research assistant for the following faculty:
