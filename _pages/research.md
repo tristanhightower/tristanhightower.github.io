@@ -20,7 +20,7 @@ My working projects include:
   <li> "Megachuch Influence in State Politics." Under review. </li> 
   <li> "Interest Group Involvment in Federal Redistricting Litigation" with <a href="https://gvpt.umd.edu/facultyprofile/gimpel/james">Jim Gimpel</a>, <a href="https://gvpt.umd.edu/facultyprofile/wohlfarth/patrick-c">Patrick Wohlfarth</a>, and <a href="https://gvpt.umd.edu/gradprofile/worley/victoria">Victoria Worley</a>. Presented at MPSA Annual Conference.</li>
   <li> "Bipartisanship and Legislative Vulnerability" with <a href="https://gvpt.umd.edu/facultyprofile/miler/kris">Kris Miler</a>. Presented at MPSA Annual Conference.</li>
- <li>"Interest Group Death" with <a href="https://www.coastal.edu/academics/facultyprofiles/educationandsocialsciences/politics/adamchamberlain/">Adam Chamberlian</a> and <a href="https://gjs.appstate.edu/directory/dr-alixandra-yanus">Ali Yanus.</a></li>
+ <li>"Interest Group Death" with <a href="https://www.coastal.edu/academics/facultyprofiles/educationandsocialsciences/politics/adamchamberlain/">Adam Chamberlian</a> and <a href="https://gjs.appstate.edu/directory/dr-alixandra-yanus">Ali Yanus</a>. Preliminary work.</li>
 </ul>
 
 I have also worked as a research assistant for the following faculty:
