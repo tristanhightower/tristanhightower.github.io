@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-Welcome! I am a PhD candidate in the Department of Government and Politics at the University of Maryland, College Park. My primary subfield is American Politics with specific interests in interest groups, legislative politics, and polarization. My secondary field is quantitative methods with a particular interest in modeling the organizational structures of interest groups. I have worked in a variety of academic roles over the past few years including serving as an instructor of record, a teaching assistant, a research assistant (for various faculty at Maryland, Princeton, and Tennessee), and as the assistant director of a departmental program. 
+Welcome! I am a PhD candidate in the Department of Government and Politics at the University of Maryland, College Park. My primary subfield is American Politics with specific interests in interest groups, legislative politics, and polarization. My secondary field is quantitative methods with a particular interest in modeling the organizational structures of interest groups. I have worked in a variety of academic roles over the past few years including serving as an instructor of record, a teaching assistant, a research assistant (for various faculty at Maryland, Princeton, and Tennessee), and as the assistant director of a departmental program. At present, I work with Prof. Sarah Croco with two separate classes within UMD's Honors Global Communities LLP: "Saving the World with Data" and "Using Data to Solve Hard Problems."
   
 My dissertation focuses on the importance of context, or issue space, for the formation, longevity, and
 political activities of interest groups. I present a theoretical framework arguing that groups do not exist
