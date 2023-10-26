@@ -15,7 +15,7 @@ political activities of interest groups. I present a theoretical framework argui
 in isolation but are part of a larger issue space where they interact with and are affected by other groups.
 These dynamics are critical to understanding the life cycle of groups relative to their engagement in the
 policy process. I illustrate these dynamics across three in-depth empirical analyses that test the theory
-across common, complex, and polarized issues. My work has been published or is forthcoming in <i> Political Science Research and Methods</i>, <i>Political Research Quarterly</i>, <i>Interest Groups & Advocacy</i>, and <i>Pursuit</i>. Work that is under review or that has been invited for revision and resubmission at a journal can be found in my CV or on my "Research" page.</p>
+across common, complex, and polarized issues. My work has been published or is forthcoming in <i>  <a href="/files/TH_PSRM_unpublished.pdf">Political Science Research and Methods</a>.</i>, <i>Political Research Quarterly</i>, <i>Interest Groups & Advocacy</i>, and <i>Pursuit</i>. Work that is under review or that has been invited for revision and resubmission at a journal can be found in my CV or on my "Research" page.</p>
   
  <p>Before starting graduate school at Maryland, I graduated Phi Beta Kappa and <i>summa cum laude</i> from the University of Tennessee, Knoxville with a Bachelor of Arts in Political Science. I am also a graduate of the Chancellor’s Honors Program at UT. Outside of academia, I have interned for a U.S. Senator’s field office and on the Hill for the Senate Foreign Relations Committee.</p>
  
