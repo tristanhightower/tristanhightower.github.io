@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+<h1>Beagles</h1>
  
 My main field of specialization for the PhD is American politics with a secondary concentration in quantitative methodology. I am broadly interested in American political institutions -- especially interest groups and legislative bodies. My current research agenda is pointed toward better understanding the temporal and spatial context surrounding issue areas and the effect on group formation and influence. Broadly speaking, in my dissertation I develop a "life cycle theory" of issue spaces then empirically demonstrate the theory through a set of case studies. The general motivation for my research -- democratic representation -- also threads through a number of other research projects at various stages. This includes co-authored, published work on the law and papers on religious institutions' interactions with political representation. If you would like to know more about my current research, please feel free to <a href="mailto:thighto@umd.edu">contact me</a>. My publications are:
 <ul> 
