@@ -13,4 +13,4 @@ My research is broadly situated in American politics with specific foci in repre
 
 I view teaching as both an immense privilege and responsibility. I approach pedagogy with mixed-methods in the classroom, blending traditional lecture with less traditional modes of learning. Beyond the curriculum, my goal is to get each student as interested in the topic as I am.  
 
-You can contact me via email at <a href="mailto:thightower@bryant.edu">mailto:thightower@bryant.edu</a>.
+You can contact me via email at <a href="mailto:thightower@bryant.edu">thightower@bryant.edu</a>.
