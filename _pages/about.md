@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Assistant Professor of Political Science at Bryant University in Smithfield, RI. I earned my Ph.D. (2024) and M.A. (2020) in political science from the University of Maryland and my B.A. <i>summa cum laude</i> and Phi Beta Kappa in political science from the University of Tennessee in 2017, where I also completed the Chancellor’s Honors Program and the departmental honors program.
+I am Assistant Professor of Political Science at Bryant University in Smithfield, RI. I earned my Ph.D. (2024) and M.A. (2020) in political science from the University of Maryland and my B.A. (2017) <i>summa cum laude</i> and Phi Beta Kappa in political science from the University of Tennessee, where I also completed the Chancellor’s Honors Program and the departmental honors program.
 
 My research centers on American politics, with particular focus on political representation, interest groups, legislative studies, and polarization. I am especially interested in how the structure and composition of issue spaces shape group formation, strategy, and advocacy. My dissertation developed a theoretical framework showing that interest groups do not operate in isolation, but rather interact - formally and informally - within a broader policy ecosystem. Some of this work, along with related projects, has been published or is forthcoming in <i>Political Science Research and Methods</i>, <i>Political Research Quarterly</i>, <i>Interest Groups & Advocacy</i>, and <i>Pursuit</i>. 
 
