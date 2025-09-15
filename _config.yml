@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "@profhightower" #username
   lastfm           : # Username
   linkedin         :  "tristanhightower" #username
   mastodon         : # URL
@@ -276,6 +276,15 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+
+        # _students
+  - scope:
+      path: ""
+      type: students
+    values:
+      layout: single
       author_profile: true
       share: true
 
