@@ -5,5 +5,176 @@ permalink: /students/
 author_profile: true
 ---
 
-I have had the privilege of working with some very talented student researchers at both the University of Maryland and Bryant University.
-Here is some information about how awesome they are:
+<p>I have had the privilege of working with some very talented student researchers at both the University of Maryland and Bryant University. Here is some information about how awesome they are:</p>
+
+<style>
+  /* Scoped styles for this page only */
+  .students-page { 
+    --card-bg: #ffffff; 
+    --accent: #334155; /* slate-700 */
+    --muted: #64748b;  /* slate-500 */
+    --ring: #e2e8f0;   /* slate-200 */
+  }
+  .students-page .grid { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
+    gap: 1.25rem; 
+    margin: 1.25rem 0 2rem; 
+  }
+  .students-page .card { 
+    background: var(--card-bg); 
+    border: 1px solid var(--ring); 
+    border-radius: 16px; 
+    padding: 1.25rem; 
+    box-shadow: 0 1px 2px rgba(0,0,0,0.04); 
+  }
+  .students-page h2, .students-page h3 { 
+    margin: 0 0 .5rem; 
+    color: var(--accent); 
+  }
+  .students-page h2 { 
+    font-size: 1.25rem; 
+    line-height: 1.2; 
+  }
+  .students-page .meta { 
+    font-size: .95rem; 
+    color: var(--muted); 
+    margin-bottom: .75rem; 
+  }
+  .students-page .tags { 
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: .4rem; 
+    margin: .75rem 0; 
+  }
+  .students-page .tag { 
+    font-size: .8rem; 
+    border: 1px solid var(--ring); 
+    padding: .2rem .5rem; 
+    border-radius: 999px; 
+  }
+  .students-page details { 
+    margin-top: .75rem; 
+    border-top: 1px dashed var(--ring); 
+    padding-top: .75rem; 
+  }
+  .students-page a { text-decoration: none; }
+  .students-page a:hover { text-decoration: underline; }
+</style>
+
+<section class="students-page">
+  <div class="grid">
+
+    <!-- Student 1 -->
+    <article class="card">
+      <h2>Jonathan Holleran</h2>
+      <div class="meta">Finance and Politics & Law, Bryant University · Honors Thesis (2025–2026)</div>
+      <p><em>Focus:</em> Insider trading, congressional behavior, and lobbying.
+      Use this space for 1–2 sentences on who they are and what you worked on together.</p>
+
+      <div class="tags">
+        <span class="tag">Data Collection</span>
+        <span class="tag">Data Analytics</span>
+        <span class="tag">Thesis</span>
+      </div>
+
+      <h3>What we did together</h3>
+      <ul>
+        <li>Co-authored project on presidential rhetoric and congressional polarization (dataset of ~50k+ posts).</li>
+        <li>Presented findings at <em>Conference / Venue</em> (Month Year).</li>
+        <li>Led replication exercises for <em>Course/Workshop</em>.</li>
+      </ul>
+
+      <details>
+        <summary><strong>Links & extras</strong> (CV line, posters, code, etc.)</summary>
+        <ul>
+          <li><a href="#">Poster: “Title of Poster” (PDF)</a></li>
+          <li><a href="#">Slides (PDF)</a> · <a href="#">Code repository</a></li>
+          <li><a href="#">Press / campus news</a></li>
+        </ul>
+      </details>
+    </article>
+
+    <!-- Student 2 -->
+    <article class="card">
+      <h2>Student Name Two</h2>
+      <div class="meta">Government & Politics, University of Maryland · Undergraduate Researcher (2022–2024)</div>
+      <p><em>Focus:</em> Interest groups, administrative politics, and notice‑and‑comment rulemaking. Add a brief bio/impact line.</p>
+
+      <div class="tags">
+        <span class="tag">Lit Review</span>
+        <span class="tag">Stata</span>
+        <span class="tag">Policy Memo</span>
+      </div>
+
+      <h3>What we did together</h3>
+      <ul>
+        <li>Co-authored project on presidential rhetoric and congressional polarization (dataset of ~50k+ posts).</li>
+      </ul>
+
+      <details>
+        <summary><strong>Links & extras</strong></summary>
+        <ul>
+          <li><a href="https://news.bryant.edu/bryant-student-explores-legislative-executive-relations-through-undergraduate-research-grant">Bryant student explores...</a></li>
+          <li><a href="#">UG Research Day abstract</a></li>
+        </ul>
+      </details>
+    </article>
+
+    <!-- Student 3 -->
+    <article class="card">
+      <h2>Student Name Three</h2>
+      <div class="meta">Politics & Law + Finance, Bryant University · Honors Thesis Advisee (2025–2026)</div>
+      <p><em>Focus:</em> Campaign finance, party networks, and agenda setting. Use 1–2 sentences to summarize the project and outcomes.</p>
+
+      <div class="tags">
+        <span class="tag">Thesis</span>
+        <span class="tag">Quant Methods</span>
+        <span class="tag">Presentation</span>
+      </div>
+
+      <h3>What we did together</h3>
+      <ul>
+        <li>Designed and executed original research on <em>Topic</em> (IRB approved).</li>
+        <li>Defended honors thesis, graduating <em>honors designation</em> (Month Year).</li>
+        <li>Submitted manuscript to <em>Journal / Conference</em>.</li>
+      </ul>
+
+      <details>
+        <summary><strong>Links & extras</strong></summary>
+        <ul>
+          <li><a href="#">Thesis PDF</a></li>
+          <li><a href="#">Slides</a> · <a href="#">Poster</a></li>
+          <li><a href="#">GitHub / OSF</a></li>
+        </ul>
+      </details>
+    </article>
+
+  </div>
+
+  <!-- Reusable snippet for adding a new student quickly -->
+  <details>
+    <summary><strong>Add another student (copy‑paste template)</strong></summary>
+<pre><code>&lt;article class="card"&gt;
+  &lt;h2&gt;Student Name&lt;/h2&gt;
+  &lt;div class="meta"&gt;Major, Institution · Role (Years)&lt;/div&gt;
+  &lt;p&gt;&lt;em&gt;Focus:&lt;/em&gt; 1–2 sentence summary.&lt;/p&gt;
+  &lt;div class="tags"&gt;
+    &lt;span class="tag"&gt;Skill 1&lt;/span&gt;
+    &lt;span class="tag"&gt;Skill 2&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;h3&gt;What we did together&lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Bullet of work/outcome.&lt;/li&gt;
+    &lt;li&gt;Bullet of work/outcome.&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;details&gt;
+    &lt;summary&gt;&lt;strong&gt;Links &amp; extras&lt;/strong&gt;&lt;/summary&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href="#"&gt;Link 1&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/details&gt;
+&lt;/article&gt;
+</code></pre>
+  </details>
+</section>
